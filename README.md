@@ -4,6 +4,10 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/Capture.PNG)
 
 
+                                  Finish_of_Installation
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/finish.PNG)
+
+
                                         Align_Left
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/align_left.png)
 
