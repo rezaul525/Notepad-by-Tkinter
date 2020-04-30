@@ -26,6 +26,9 @@
                                              Font_Color_Selection
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_colour.png)
 
+                                                    Colored_Text
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/txt_colour.png)
+
 
                                                   Font_Size_Selection
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_size.png)
