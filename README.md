@@ -32,6 +32,10 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/hide_toolbar.png)
 
 
+                                                 Hide_Status_Bar
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/hide_statusbar.png)
+
+
                                             Exit_Action
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/exit_action.png)
 
