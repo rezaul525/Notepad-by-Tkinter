@@ -16,12 +16,16 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/edit_menu.png)
 
 
-                                             Selecting_Font_Style
+                                             Font_Style_Selection
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font.png)
 
 
-                                             Font_Color_Selecting
+                                             Font_Color_Selection
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_colour.png)
+
+
+                                                  Font_Size_Selection
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_size.png)
 
 
                                             Exit_Action
