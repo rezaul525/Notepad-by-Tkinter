@@ -11,3 +11,6 @@
 
                                            Font_Bold
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/bold_font.png)
+
+                                           Edit_Menu
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/edit_menu.png)
