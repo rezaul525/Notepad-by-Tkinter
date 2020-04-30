@@ -32,9 +32,15 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/mark_all.png)
 
 
-                                                      Theme
+                                                      Theme_Menu
 
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/theme.png)
+
+
+                                                Theme_Selection
+                                               
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/select_theme.png)
+
 
                                                   Toolbar_Hide
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/hide_toolbar.png)
