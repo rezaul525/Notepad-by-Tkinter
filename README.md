@@ -14,3 +14,7 @@
 
                                            Edit_Menu
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/edit_menu.png)
+
+
+                                            Exit_Action
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/exit_action.png)
