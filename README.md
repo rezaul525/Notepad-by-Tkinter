@@ -20,6 +20,10 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font.png)
 
 
+                                             Font_Color_Selecting
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_colour.png)
+
+
                                             Exit_Action
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/exit_action.png)
 
