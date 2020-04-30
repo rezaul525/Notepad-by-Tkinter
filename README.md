@@ -16,9 +16,16 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/edit_menu.png)
 
 
+                                             Selecting_Font_Style
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font.png)
+
+
                                             Exit_Action
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/exit_action.png)
 
 
                                       Message_Box_For_Saving_Warning
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/message_box.png)
+
+
+ 
