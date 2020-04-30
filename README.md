@@ -1,5 +1,9 @@
 # Notepad-by-Tkinter
 
+                                  Installation_of_Notepad
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/Capture.PNG)
+
+
                                         Align_Left
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/align_left.png)
 
