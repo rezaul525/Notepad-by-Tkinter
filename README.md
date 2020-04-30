@@ -28,6 +28,10 @@
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/font_size.png)
 
 
+                                                  Toolbar_Hide
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/hide_toolbar.png)
+
+
                                             Exit_Action
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/exit_action.png)
 
