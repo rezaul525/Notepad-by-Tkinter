@@ -9,6 +9,9 @@
                                           Align_Right
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/align_right.png)
 
+                                          Text_Underline
+![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/un.png)
+
                                            Font_Bold
 ![](https://raw.githubusercontent.com/rezaul525/Notepad-by-Tkinter/master/project_ss/bold_font.png)
 
